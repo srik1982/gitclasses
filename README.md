@@ -1,0 +1,2 @@
+# gitclasses
+For testing purpose
